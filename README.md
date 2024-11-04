@@ -2,7 +2,7 @@
 
 Our project is a randomized restaurant decision maker. Have you ever just been too tired to decide what is for dinner? Well not anymore. Now you can visit our project and our wheel of restaurants will decide for you!
 
-## Navigation
+## Navigation -
 
 - [User Story](https://github.com/shoc71/Restaurant-Roulette/ 'User Story')
 - [Acceptance Criteria](https://github.com/shoc71/Restaurant-Roulette/ 'Acceptance Criteria')
